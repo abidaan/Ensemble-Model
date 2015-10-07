@@ -6,7 +6,7 @@ Name of the Project: A comparison of Ensemble Methods for predicting power consu
 
 ###Contents 
 1) household_power_consumption.txt - The text file containing data about power consumption. This file is not provided as part of the package. It can be downloaded from the link: https://archive.ics.uci.edu/ml/machine-learning-databases/00235/      
-2) weather.csv - The text file containing data about weather.   
+2) weather.csv - The text file containing data about weather: https://www.dropbox.com/s/bcc7cbdkztldkui/weather.csv?dl=0   
 3) Power_Data_Cleaning.R - The R script used to pre-process the power data.   
 4) Weather_Data_Cleaning.R - The R script used to pre-process the weather data.   
 5) Data_Merge.R - The R script used to merge the two data sources.   
